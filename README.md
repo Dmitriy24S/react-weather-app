@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# React Weather App
+
+Created with OpenWeatherMap API, React and Bootstrap.
+
+[Live Demo](https://dmitriy24s.github.io/react-weather-app/) 👈
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
