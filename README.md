@@ -1,6 +1,8 @@
 # React Weather App
 
-Created with OpenWeatherMap API, React and Bootstrap.
+![Design preview for Weather App](./design-preview/design-preview.png)
+
+React Weather App. Created with OpenWeatherMap API, React and Bootstrap.
 
 [Live Demo](https://dmitriy24s.github.io/react-weather-app/) 👈
 
